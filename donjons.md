@@ -17,4 +17,4 @@ Chaque donjon enchaîne **3 vagues** de monstres. Le type de monstre de chaque d
 
 Nettoyer les 3 vagues d'un donjon fait apparaître un **coffre contenant un objet légendaire**, à l'endroit où le dernier monstre est tombé. Comme pour les monstres, l'objet légendaire de chaque donjon (Bottes de Pégase, Master Sword, Tunique du Héros, ou Arc de Lumière) est tiré au hasard à chaque partie, un exemplaire garanti par donjon, sans doublon entre les 4.
 
-Une annonce publique (anonyme, sans révéler qui l'a fait) informe tout le monde qu'un donjon a été nettoyé.
+Les joueurs à moins de 100 blocs du donjon reçoivent un message (anonyme, sans révéler qui l'a fait) confirmant que le donjon a été nettoyé.
