@@ -42,7 +42,7 @@ Casser une seule bûche (n'importe quel outil, même à la main) abat tout l'arb
 
 ## Minage automatiquement fondu
 
-Casser un minerai brut (fer, or ou cuivre) donne directement le lingot correspondant avec l'XP correspondante, comme s'il était passé au four. Sylvanité (Silk Touch) donne toujours le minerai brut normalement, et Fortune s'applique bien à la quantité obtenue. Charbon, diamant, émeraude, redstone, lapis et quartz ne sont pas concernés, ils sortent déjà utilisables tels quels en vanilla.
+Casser un minerai brut (fer, or ou cuivre) donne directement le lingot correspondant avec l'XP correspondante, comme s'il était passé au four. Silk Touch donne toujours le minerai brut normalement, et Fortune s'applique bien à la quantité obtenue. Charbon, diamant, émeraude, redstone, lapis et quartz ne sont pas concernés, ils sortent déjà utilisables tels quels en vanilla.
 
 ## Objets bannis
 
