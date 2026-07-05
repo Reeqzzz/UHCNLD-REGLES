@@ -42,13 +42,17 @@ Casser une seule bûche (n'importe quel outil, même à la main) abat tout l'arb
 
 ## Minage automatiquement fondu
 
-Casser un minerai de fer, d'or, de cuivre ou un débris antique donne directement le résultat fondu (lingot, ou éclat de netherite) avec l'XP correspondante, comme s'il était passé au four. Sylvanité (Silk Touch) donne toujours le minerai brut normalement, et Fortune s'applique bien à la quantité obtenue. Charbon, diamant, émeraude, redstone, lapis et quartz ne sont pas concernés, ils sortent déjà utilisables tels quels en vanilla.
+Casser un minerai brut (fer, or ou cuivre) donne directement le lingot correspondant avec l'XP correspondante, comme s'il était passé au four. Sylvanité (Silk Touch) donne toujours le minerai brut normalement, et Fortune s'applique bien à la quantité obtenue. Charbon, diamant, émeraude, redstone, lapis et quartz ne sont pas concernés, ils sortent déjà utilisables tels quels en vanilla.
 
 ## Objets bannis
 
 - **Pommes de Notch** : bannies partout (craft, loot, coffres).
 - **Briquet (Flint and Steel)** : interdit.
 - **Obsidienne** : impossible à poser dans un rayon de 30 blocs autour du rituel final.
+
+## Nether et End désactivés
+
+L'accès au Nether et à l'End est bloqué : emprunter un portail ne fait rien, tout se joue dans le monde principal.
 
 ## Limites d'enchantement
 
