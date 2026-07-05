@@ -38,6 +38,7 @@ export default defineConfig({
         items: [
           { text: 'Objets de base', link: '/objets' },
           { text: 'Objets légendaires', link: '/legendaires' },
+          { text: 'Objets marchands et autres objets', link: '/marchands-objets' },
           { text: 'Recettes de craft', link: '/craft' },
         ]
       },
