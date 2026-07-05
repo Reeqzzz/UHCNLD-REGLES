@@ -40,6 +40,10 @@ Chaque joueur est ensuite enfermé dans une **boîte de verre** (teintée de la 
 
 Casser une seule bûche (n'importe quel outil, même à la main) abat tout l'arbre d'un coup, feuillage compris, toutes essences confondues. Les feuilles ont une chance de lâcher une pomme (0,5% par feuille, comme en vanilla), dont 1 sur 12 est une pomme en or.
 
+## Minage automatiquement fondu
+
+Casser un minerai de fer, d'or, de cuivre ou un débris antique donne directement le résultat fondu (lingot, ou éclat de netherite) avec l'XP correspondante, comme s'il était passé au four. Sylvanité (Silk Touch) donne toujours le minerai brut normalement, et Fortune s'applique bien à la quantité obtenue. Charbon, diamant, émeraude, redstone, lapis et quartz ne sont pas concernés, ils sortent déjà utilisables tels quels en vanilla.
+
 ## Objets bannis
 
 - **Pommes de Notch** : bannies partout (craft, loot, coffres).
