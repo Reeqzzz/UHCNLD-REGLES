@@ -8,6 +8,8 @@ Ces deux objets sont craftables à l'établi comme n'importe quelle recette vani
 
 ## Réceptacle de Cœur
 
-*Réservé aux Hyliens à l'utilisation, voir [Objets de base](/objets).*
-
 ![Recette du Réceptacle de Cœur](/recette-receptacle.png)
+
+- **Réservé aux Hyliens.**
+- Se consomme pour gagner **+1 cœur** de vie max (jusqu'à 15 cœurs).
+- Aussi obtenu automatiquement à chaque kill si vous jouez Hylien.

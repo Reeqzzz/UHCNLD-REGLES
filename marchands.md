@@ -10,10 +10,6 @@
 | **Roland** (vert foncé) | Fermier | [Vent de Farore](/legendaires#vent-de-farore) | 64 Rubis + 5 Diamants |
 | **Lionel** (or) | Bibliothécaire | [Ocarina du Temps](/legendaires#ocarina-du-temps) | 64 Rubis + 1 objet légendaire au choix |
 
-::: tip
-Le nom de chaque marchand est coloré avec la couleur de l'objet qu'il vend, pour les reconnaître facilement.
-:::
-
 ::: warning Limite d'achat
 Gantelet du Désespoir, Masque des Ombres, Lame Jumelle et Vent de Farore sont **limités à 1 achat par équipe**. L'Ocarina du Temps est en achat illimité (un par membre).
 :::
