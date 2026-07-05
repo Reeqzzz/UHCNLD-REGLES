@@ -28,3 +28,7 @@ Si le compte à rebours va à son terme sans interruption, l'équipe qui a posé
 ## Victoire alternative
 
 Si toutes les équipes adverses sont éliminées avant qu'un rituel n'aboutisse, la dernière équipe encore en vie remporte automatiquement la partie.
+
+## Récap de fin de partie
+
+À la victoire, un classement s'affiche dans le chat : chaque joueur (coloré par équipe), son nombre de kills, et son temps de survie (ou "en vie" s'il a survécu jusqu'au bout), trié par nombre de kills décroissant.
