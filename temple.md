@@ -14,7 +14,7 @@ Une équipe qui possède les 3 fragments peut les déposer sur les 3 dalles du r
 
 ## Le compte à rebours
 
-Une fois les 3 dalles remplies, un compte à rebours se lance (affiché en boss bar visible dans un rayon autour du Temple). Pendant ce temps :
+Une fois les 3 dalles remplies, un compte à rebours se lance (affiché en boss bar visible à moins de 150 blocs du rituel). Pendant ce temps :
 
 - **N'importe quelle équipe encore en vie peut attaquer le rituel** pour le détruire avant la fin.
 - **Si l'équipe qui a posé le rituel est entièrement éliminée** avant la fin du compte à rebours, le rituel s'effondre aussi.
