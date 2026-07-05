@@ -40,10 +40,28 @@ Chaque joueur est ensuite enfermé dans une **boîte de verre** (teintée de la 
 
 - **Pommes de Notch** : bannies partout (craft, loot, coffres).
 - **Briquet (Flint and Steel)** : interdit.
+- **Obsidienne** : impossible à poser dans un rayon de 30 blocs autour du rituel final (empêche de bunkeriser les dalles).
 
 ## Limites d'enchantement
 
-Certains enchantements ont un niveau maximum autorisé, appliqué automatiquement (l'enchantement est refusé/annulé au-delà) — notamment Protection (limité selon le type d'armure), Sharpness, et d'autres. Un message en jeu précise la limite si vous tentez de dépasser.
+| Enchantement | Niveau maximum |
+|---|---|
+| Protection | **III** sur fer/cuir/chaîne/or — **II** sur diamant |
+| Tranchant (Sharpness) | III |
+| Puissance (Power, arc) | IV |
+| Châtiment (Smite) | IV |
+| Fléau des Arthropodes (Bane of Arthropods) | II |
+| Flamme (Flame, arc) | **Totalement interdit** |
+| Aspect Feu (Fire Aspect) | **Totalement interdit** |
+| Tous les autres (Solidité/Unbreaking, Réparation/Mending, Efficacité, Fortune, Butin/Looting, Respiration, Rapidité aquatique/Depth Strider, Chute de plumes/Feather Falling, Épines/Thorns, Recul/Knockback, Piston/Punch, etc.) | Aucune limite |
+
+**Les objets légendaires sont totalement exemptés** de ces limites — c'est normal que la Master Sword (Sharpness VI, Bane of Arthropods II, Smite V), la Tunique du Héros (Protection VI) ou l'Arc de Lumière (Flame I) dépassent ces plafonds, ils ne sont pas concernés par la règle.
+
+### Comment ça se comporte concrètement
+
+- **Table d'enchantement** : si le résultat dépasserait une limite, l'enchantement est intégralement refusé — aucune XP ni Lapis n'est consommé (pas de réduction silencieuse du niveau).
+- **Enclume** : même principe, le résultat est bloqué si la combinaison dépasserait la limite (les deux objets utilisés restent dans leurs emplacements, rien n'est consommé). Un message d'erreur s'affiche, sans spam si vous laissez les objets en place.
+- **Objet obtenu autrement** (loot, don admin...) : dès que l'objet est tenu en main ou déplacé dans l'inventaire, un enchantement interdit (Flamme/Aspect Feu) est retiré automatiquement, et un enchantement trop haut (ex: Tranchant IV) est réduit au niveau maximum autorisé. Un message en jeu vous informe dans les deux cas.
 
 ## Rappels automatiques
 
