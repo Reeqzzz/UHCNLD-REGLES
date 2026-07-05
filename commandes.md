@@ -14,7 +14,7 @@ En plus des commandes, certaines actions se font directement via des objets dans
 
 - **Choisir une Équipe** (lit, lobby uniquement).
 - **Choisir sa Race** (livre enchanté, pendant la phase de sélection de race).
-- **Règles de la partie** (livre, dernier slot de la hotbar) — affiche les règles et les commandes utiles dans le chat.
+- **Règles de la partie** (livre, dernier slot de la hotbar), affiche les règles et les commandes utiles dans le chat.
 
 ## Commandes admin
 

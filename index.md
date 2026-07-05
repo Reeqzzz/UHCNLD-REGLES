@@ -16,7 +16,7 @@ hero:
       link: /objets
 features:
   - title: 7 Races jouables
-    details: Hylien, Goron, Zora, Piaf, Gerudo, Sheikah, Kokiri — chacune avec ses bonus et malus.
+    details: Hylien, Goron, Zora, Piaf, Gerudo, Sheikah, Kokiri, chacune avec ses bonus et malus.
   - title: Objets légendaires
     details: Master Sword, Tunique du Héros, Arc de Lumière, Bottes de Pégase, et plus, obtenables chez les marchands.
   - title: Rituel final

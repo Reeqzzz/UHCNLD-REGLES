@@ -13,4 +13,4 @@
 La Tour de Din (rouge), le Sanctuaire de Nayru (aqua) et la Tour de Farore (vert) suivent chacun une couleur thématique propre, pour les reconnaître facilement en jeu.
 :::
 
-Les monstres de vague sont choisis pour leur IA de combat fiable (toujours hostiles, ne prennent pas feu au soleil) plutôt que pour un mob "plus logique" visuellement — certains mobs vanilla ont une IA peu fiable pour ce rôle (Noyé, Vindicator).
+Les monstres de vague sont choisis pour leur IA de combat fiable (toujours hostiles, ne prennent pas feu au soleil) plutôt que pour un mob "plus logique" visuellement. Certains mobs vanilla ont une IA peu fiable pour ce rôle (Noyé, Vindicator).
