@@ -16,7 +16,7 @@ Achetés contre des Rubis chez l'un des 5 marchands (voir [Marchands](/marchands
 
 ## Lame Jumelle
 
-- 6 dégâts de base (volontairement 1 de moins qu'une épée en diamant).
+- 6 dégâts de base.
 - **15% de chance d'infliger 2× plus de dégâts** sur un coup.
 - Vendu par **Bénédicte**.
 

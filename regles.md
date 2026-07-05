@@ -32,15 +32,19 @@ Des avertissements (titre à l'écran + son) sont envoyés 5 minutes puis 1 minu
 
 ## Début de partie : la dispersion ("scatter")
 
-Au lancement, chaque équipe est téléportée à un point réparti **par angle autour du centre de la carte** (pas au hasard dans un carré) pour garantir un espacement équitable entre équipes. Chaque coéquipier est vérifié individuellement (pas d'eau/lave à proximité, pas de falaise/ravin/grotte, terrain stable).
+Au lancement, chaque équipe est téléportée à un point réparti **par angle autour du centre de la carte**, pour garantir un espacement équitable entre équipes. Chaque coéquipier est vérifié individuellement (pas d'eau/lave à proximité, pas de falaise/ravin/grotte, terrain stable).
 
-Chaque joueur est ensuite enfermé dans une **boîte de verre** (teintée de la couleur de son équipe) à 50 blocs au-dessus de son point d'atterrissage. Un compte à rebours de 5 secondes s'affiche ("Chute imminente…"), puis le verre se casse : la chute est **invulnérable** (aucun dégât de chute), et l'invulnérabilité se lève automatiquement une fois posé au sol.
+Chaque joueur est ensuite enfermé dans une **boîte de verre** (teintée de la couleur de son équipe) à 50 blocs au-dessus de son point d'atterrissage. Un compte à rebours de 5 secondes s'affiche, puis le verre se casse : la chute est **invulnérable** (aucun dégât de chute), et l'invulnérabilité se lève automatiquement une fois posé au sol.
+
+## Récolte des arbres
+
+Casser une seule bûche (n'importe quel outil, même à la main) abat tout l'arbre d'un coup, feuillage compris, toutes essences confondues. Les feuilles ont une chance de lâcher une pomme (0,5% par feuille, comme en vanilla), dont 1 sur 12 est une pomme en or.
 
 ## Objets bannis
 
 - **Pommes de Notch** : bannies partout (craft, loot, coffres).
 - **Briquet (Flint and Steel)** : interdit.
-- **Obsidienne** : impossible à poser dans un rayon de 30 blocs autour du rituel final (empêche de bunkeriser les dalles).
+- **Obsidienne** : impossible à poser dans un rayon de 30 blocs autour du rituel final.
 
 ## Limites d'enchantement
 

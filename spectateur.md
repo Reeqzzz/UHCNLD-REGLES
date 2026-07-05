@@ -12,7 +12,7 @@ Trois façons d'ouvrir le menu de sélection (toutes équivalentes) :
 
 ## Suivre un coéquipier vivant
 
-Si votre équipe a encore au moins un membre vivant, le menu vous propose de **suivre sa vue directement** (caméra attachée, impossible de vous déplacer librement, comme un vrai spectateur UHC, pas de scoutage de la carte). Le jeu re-sélectionne automatiquement un autre coéquipier vivant si celui que vous suivez meurt à son tour ou se déconnecte.
+Si votre équipe a encore au moins un membre vivant, le menu vous propose de **suivre sa vue directement** (caméra attachée, impossible de vous déplacer librement). Le jeu re-sélectionne automatiquement un autre coéquipier vivant si celui que vous suivez meurt à son tour ou se déconnecte.
 
 ## Spectateur libre
 
