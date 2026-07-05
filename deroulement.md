@@ -1,0 +1,28 @@
+# Déroulement d'une partie
+
+## 1. Lobby
+
+Les joueurs choisissent leur équipe (item "Choisir une Équipe" dans la hotbar). Les règles et commandes sont consultables à tout moment via l'item "Règles de la partie" (dernier slot de la hotbar) ou la commande `/positions`.
+
+## 2. Sélection de race
+
+Une fois la partie lancée par un admin, chaque joueur dispose d'1min30 pour choisir sa race via l'item "Choisir sa Race" (voir [Races](/races)).
+
+## 3. Dispersion (scatter)
+
+Chaque équipe est téléportée à un point distinct de la carte, dans une boîte de verre en hauteur, avec un compte à rebours avant la chute (voir [Règles](/regles) pour le détail).
+
+## 4. Phase de jeu
+
+- Explorez la carte, combattez les monstres, trouvez les **3 Fragments de Triforce** dans leurs caches souterraines.
+- Achetez des objets légendaires auprès des 5 marchands (voir [Marchands](/marchands)) avec des Rubis.
+- Le PvP s'active après 20 minutes ; les 4 donjons s'ouvrent au même moment (voir [Donjons](/donjons)).
+- Le Final Heal soigne tout le monde à 15 minutes.
+
+## 5. Rituel final
+
+Une fois les 3 fragments réunis par une même équipe, déposez-les sur les 3 dalles du rituel au Temple du Temps. Un compte à rebours se lance : n'importe quelle équipe encore en vie peut attaquer le rituel pour le détruire avant la fin (les fragments retombent alors au sol, récupérables par n'importe qui). Si le compte à rebours va à son terme sans interruption, l'équipe qui l'a posé gagne. Si cette équipe est éliminée avant la fin du compte à rebours, le rituel s'effondre aussi (personne ne gagne, les fragments retombent au sol) — voir [Temple du Temps & Rituel](/temple).
+
+## 6. Fin de partie
+
+Victoire par rituel réussi, ou par élimination de toutes les équipes adverses (dernière équipe en vie). Feux d'artifice et titre de victoire/défaite à l'écran, retour au lobby après 10 secondes.
