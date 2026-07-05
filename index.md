@@ -2,8 +2,8 @@
 layout: home
 hero:
   name: UHC NLD
-  text: Documentation officieuse
-  tagline: Un UHC sur le thème de Zelda — races, objets légendaires, Triforce, rituel final et bien plus.
+  text: Documentation
+  tagline: Races, objets légendaires, Triforce, rituel final et bien plus.
   actions:
     - theme: brand
       text: Règles de la partie

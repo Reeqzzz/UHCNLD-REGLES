@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   title: 'UHC NLD',
-  description: 'Documentation du plugin UHC NLD — règles, races, objets, marchands, donjons',
+  description: 'Documentation du serveur UHC NLD — règles, races, objets, marchands, donjons',
   lang: 'fr-FR',
   cleanUrls: true,
   ignoreDeadLinks: true,
@@ -68,7 +68,7 @@ export default defineConfig({
       provider: 'local'
     },
     footer: {
-      message: 'Documentation non-officielle du plugin UHC NLD.',
+      message: 'Documentation du serveur UHC NLD.',
     }
   }
 })

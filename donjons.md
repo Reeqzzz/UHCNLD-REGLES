@@ -9,8 +9,8 @@
 | **Le Sanctuaire de Nayru** | Aqua | Husk |
 | **La Tour de Farore** | Vert | Zombie |
 
-::: info Le trio des Déesses
-La Tour de Din (feu/pouvoir), le Sanctuaire de Nayru (sagesse) et la Tour de Farore (courage) reprennent les couleurs traditionnelles des 3 déesses d'or du folklore Zelda : Din en rouge, Nayru en bleu, Farore en vert.
+::: info Code couleur
+La Tour de Din (rouge), le Sanctuaire de Nayru (aqua) et la Tour de Farore (vert) suivent chacun une couleur thématique propre, pour les reconnaître facilement en jeu.
 :::
 
 Les monstres de vague sont choisis pour leur IA de combat fiable (toujours hostiles, ne prennent pas feu au soleil) plutôt que pour un mob "plus logique" visuellement — certains mobs vanilla ont une IA peu fiable pour ce rôle (Noyé, Vindicator).
