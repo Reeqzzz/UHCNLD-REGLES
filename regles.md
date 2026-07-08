@@ -26,6 +26,8 @@ Des avertissements (titre à l'écran + son) sont envoyés 5 minutes puis 1 minu
 ## Vie et régénération
 
 - **Régénération de vie naturelle activée** (faim pleine régénère automatiquement, comme dans Minecraft de base).
+- **Avant l'activation du PvP** : mourir (chute, mob, lave...) fait juste respawn normalement, comme dans Minecraft classique — aucune élimination.
+- **À partir de l'activation du PvP** : mourir élimine définitivement (passage en spectateur), plus de respawn possible.
 - Chaque race a son propre nombre de cœurs de départ et son maximum absolu (voir [Races](/races)).
 - Les cœurs d'absorption (pommes dorées enchantées, etc.) sont limités ou interdits selon la race, voir [Races](/races).
 - Les **Pommes de Notch (pommes dorées enchantées) sont totalement bannies** : ni craftables, ni trouvables dans aucun loot (coffres déjà générés compris).
