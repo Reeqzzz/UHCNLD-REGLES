@@ -6,7 +6,7 @@ Rassembler les **3 Fragments de Triforce** dispersés dans des caches souterrain
 
 ## Minage
 
-Tout le monde a **Hâte II** en permanence pendant la partie (mine plus vite, sans dépendre d'avoir trouvé/posé Efficacité).
+Toute pioche, hache, pelle ou houe fraîchement craftée (n'importe quel matériau) reçoit automatiquement **Efficacité II** et **Solidité II** — pas besoin de table d'enchantement pour ça.
 
 ## Équipes
 
