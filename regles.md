@@ -4,6 +4,10 @@
 
 Rassembler les **3 Fragments de Triforce** dispersés dans des caches souterraines de la carte, puis les déposer sur les 3 dalles du **rituel final**, au Temple du Temps. Une fois le rituel lancé, s'il va au bout de son compte à rebours sans être interrompu, l'équipe qui l'a posé remporte la partie.
 
+## Minage
+
+Tout le monde a **Hâte II** en permanence pendant la partie (mine plus vite, sans dépendre d'avoir trouvé/posé Efficacité).
+
 ## Équipes
 
 - **8 équipes maximum**, de **3 joueurs maximum** chacune (Rouge, Bleu, Vert, Jaune, Cyan, Rose, Orange, Blanc).
