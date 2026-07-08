@@ -6,9 +6,9 @@ Rassembler les **3 Fragments de Triforce** dispersés dans des caches souterrain
 
 ## Minage
 
-Toute pioche, hache, pelle ou houe fraîchement craftée (n'importe quel matériau) reçoit automatiquement **Efficacité II** et **Solidité II** — pas besoin de table d'enchantement pour ça. Chaque joueur démarre aussi avec une pioche et une hache en pierre déjà enchantées de la sorte (redonnées si ressuscité via l'Ocarina).
+Toute pioche, hache, pelle ou houe fraîchement craftée (n'importe quel matériau) reçoit automatiquement **Efficacité II** et **Solidité II** — pas besoin de table d'enchantement pour ça. À chaque fois qu'on spawn (lancement de la partie, respawn avant le PvP, ou résurrection via l'Ocarina), on reçoit une pioche et une hache en pierre déjà enchantées de la sorte, plus **16 steaks déjà cuits**.
 
-Les minerais qui nécessitent normalement un four (fer, or, cuivre) sortent **déjà fondus** en les cassant. La viande d'un animal tué sort **déjà cuite**. Le gravier a **10% de chance** de lâcher une flèche en plus de son drop normal — comme dans les vraies runs UHC.
+Les minerais qui nécessitent normalement un four (fer, or, cuivre) sortent **déjà fondus** en les cassant. La viande d'un animal tué sort **déjà cuite**. Le gravier lâche **toujours une flèche** en plus de son drop normal — comme dans les vraies runs UHC.
 
 ## Équipes
 

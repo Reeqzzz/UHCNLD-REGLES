@@ -10,7 +10,7 @@ Une fois la partie lancée par un admin, chaque joueur dispose d'1min30 pour cho
 
 ## 3. Dispersion (scatter)
 
-Chaque équipe est téléportée à un point distinct de la carte, dans une boîte de verre en hauteur, avec un compte à rebours avant la chute (voir [Règles](/regles) pour le détail). Chaque joueur démarre avec une **pioche et une hache en pierre**, déjà enchantées Efficacité II / Solidité II.
+Chaque équipe est téléportée à un point distinct de la carte, dans une boîte de verre en hauteur, avec un compte à rebours avant la chute (voir [Règles](/regles) pour le détail). Chaque joueur démarre avec une **pioche et une hache en pierre** (Efficacité II / Solidité II) et **16 steaks déjà cuits**.
 
 ## 4. Phase de jeu
 
