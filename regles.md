@@ -8,6 +8,8 @@ Rassembler les **3 Fragments de Triforce** dispersés dans des caches souterrain
 
 Toute pioche, hache, pelle ou houe fraîchement craftée (n'importe quel matériau) reçoit automatiquement **Efficacité II** et **Solidité II** — pas besoin de table d'enchantement pour ça.
 
+Les minerais qui nécessitent normalement un four (fer, or, cuivre) sortent **déjà fondus** en les cassant. La viande d'un animal tué sort **déjà cuite**. Le gravier a **10% de chance** de lâcher une flèche en plus de son drop normal — comme dans les vraies runs UHC.
+
 ## Équipes
 
 - **8 équipes maximum**, de **3 joueurs maximum** chacune (Rouge, Bleu, Vert, Jaune, Cyan, Rose, Orange, Blanc).
