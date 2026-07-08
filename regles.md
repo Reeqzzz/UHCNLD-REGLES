@@ -15,8 +15,8 @@ Rassembler les **3 Fragments de Triforce** dispersés dans des caches souterrain
 | Événement | Délai par défaut |
 |---|---|
 | Sélection de race | 1min30 après le début |
-| PvP activé (+ ouverture des donjons) | 20 minutes après le lancement |
-| Final Heal (soigne tout le monde à fond) | 15 minutes après le lancement |
+| PvP activé (+ ouverture des donjons) | 40 minutes après le lancement |
+| Final Heal (soigne tout le monde à fond) | 35 minutes après le lancement |
 | Début du rétrécissement de la bordure | 2 heures après le lancement |
 | Durée du rétrécissement de la bordure | 1 heure |
 | Taille finale de la bordure | 100 blocs de diamètre (rayon 50) |

@@ -10,7 +10,7 @@ Ramasser un fragment (au sol ou sur son socle) est **bloqué si votre inventaire
 
 ## Poser le rituel
 
-Une équipe qui possède les 3 fragments peut les déposer sur les 3 dalles du rituel, au Temple du Temps. **Le rituel ne peut être formé qu'une fois le PvP activé** (20 minutes après le début).
+Une équipe qui possède les 3 fragments peut les déposer sur les 3 dalles du rituel, au Temple du Temps. **Le rituel ne peut être formé qu'une fois le PvP activé** (40 minutes après le début).
 
 ## Le compte à rebours
 

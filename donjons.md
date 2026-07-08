@@ -1,6 +1,6 @@
 # Donjons
 
-4 donjons sont construits sur la carte, chacun avec son ambiance propre. Ils s'ouvrent en même temps que le PvP (20 minutes après le début de la partie). Leurs positions sont consultables via `/positions`.
+4 donjons sont construits sur la carte, chacun avec son ambiance propre. Ils s'ouvrent en même temps que le PvP (40 minutes après le début de la partie). Leurs positions sont consultables via `/positions`.
 
 | Donjon | Couleur |
 |---|---|

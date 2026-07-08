@@ -16,8 +16,8 @@ Chaque équipe est téléportée à un point distinct de la carte, dans une boî
 
 - Explorez la carte, combattez les monstres, trouvez les **3 Fragments de Triforce** dans leurs caches souterraines.
 - Achetez des objets légendaires auprès des 5 marchands (voir [Marchands](/marchands)) avec des Rubis.
-- Le PvP s'active après 20 minutes ; les 4 donjons s'ouvrent au même moment (voir [Donjons](/donjons)).
-- Le Final Heal soigne tout le monde à 15 minutes.
+- Le PvP s'active après 40 minutes ; les 4 donjons s'ouvrent au même moment (voir [Donjons](/donjons)).
+- Le Final Heal soigne tout le monde à 35 minutes.
 
 ## 5. Rituel final
 
