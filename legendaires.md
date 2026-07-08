@@ -14,7 +14,8 @@ Les objets légendaires sont incassables et ne s'obtiennent qu'en récompense de
 
 ## Tunique du Héros
 
-- Enchantements fixes : **Protection VI**, **Projectile Protection III**, **Fire Protection III**.
+- Mêmes statistiques d'armure qu'un plastron en netherite : **8 armure, 3 résistance (toughness), 0.1 anti-recul**.
+- Enchantements fixes : **Protection II** (plafond, ne peut pas être amélioré même à l'enclume), **Projectile Protection III**, **Fire Protection III**.
 
 ## Arc de Lumière
 
