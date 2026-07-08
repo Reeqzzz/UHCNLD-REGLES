@@ -6,7 +6,7 @@ Rassembler les **3 Fragments de Triforce** dispersés dans des caches souterrain
 
 ## Minage
 
-Toute pioche, hache, pelle ou houe fraîchement craftée (n'importe quel matériau) reçoit automatiquement **Efficacité II** et **Solidité II** — pas besoin de table d'enchantement pour ça.
+Toute pioche, hache, pelle ou houe fraîchement craftée (n'importe quel matériau) reçoit automatiquement **Efficacité II** et **Solidité II** — pas besoin de table d'enchantement pour ça. Chaque joueur démarre aussi avec une pioche et une hache en pierre déjà enchantées de la sorte (redonnées si ressuscité via l'Ocarina).
 
 Les minerais qui nécessitent normalement un four (fer, or, cuivre) sortent **déjà fondus** en les cassant. La viande d'un animal tué sort **déjà cuite**. Le gravier a **10% de chance** de lâcher une flèche en plus de son drop normal — comme dans les vraies runs UHC.
 
@@ -46,7 +46,7 @@ Chaque joueur est ensuite enfermé dans une **boîte de verre** (teintée de la 
 
 ## Récolte des arbres
 
-Casser une seule bûche (n'importe quel outil, même à la main) abat tout l'arbre d'un coup, feuillage compris, toutes essences confondues. Les feuilles ont une chance de lâcher une pomme (0,5% par feuille, comme en vanilla), dont 1 sur 12 est une pomme en or.
+Casser une seule bûche (n'importe quel outil, même à la main) abat tout l'arbre d'un coup, feuillage compris, toutes essences confondues. Les feuilles ont **1,5% de chance** de lâcher une pomme par feuille (x3 le taux vanilla), dont 1 sur 12 est une pomme en or — elles ne lâchent en revanche jamais de pousse ni de bâton.
 
 ## Minage automatiquement fondu
 
